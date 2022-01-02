@@ -24,6 +24,7 @@ with the search engine.
 
 # Usage
 The search engine is started by running the following command in the directory
+	
 	>python main.py -root ROOT -mode [C, I] -query QUERY -verbose [T, F]
 	
 ROOT and MODE are required arguments and the execution changes based on the specified Mode.
